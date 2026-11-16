@@ -1,0 +1,5 @@
+Options -Indexes
+RewriteEngine On
+# Prefer HTTPS behind Render proxy
+RewriteCond %{HTTP:X-Forwarded-Proto} =http
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

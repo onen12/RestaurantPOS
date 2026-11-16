@@ -1,0 +1,17 @@
+**HOME TASTE FOODS Restaurant POS**
+
+Location: Kansanga Ggabba Road, Next to KIU
+Phones: 0750541790 / 0788507153
+Currency: UGX
+Payment: Mobile Money (with QR) + Cash
+
+**Database Name: rposystem**
+
+**Admin Login**
+Email: admin@mail.com
+Password: codeastro.com
+
+**Cashier Login**
+Email: cashier@mail.com
+Password: codeastro.com
+
